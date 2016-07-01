@@ -1,0 +1,33 @@
+{
+  "name": "react-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run watch",
+    "watch": "gulp watch",
+    "build": "gulp build",
+    "deploy": "gulp deploy",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelianXJ/react-gulp.git"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "browserify",
+    "ES6",
+    "babel",
+  ],
+  "author": "Doris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelianXJ/react-gulp/issues"
+  },
+  "homepage": "https://github.com/HelianXJ/react-gulp#readme"
+}
